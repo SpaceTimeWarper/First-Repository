@@ -1,0 +1,14 @@
+h1{
+font-size: 30px;
+color: rgb(180, 0, 0);
+}h2{
+color: tomato;
+}
+.lowercase{
+text-transform: lowercase;
+}
+h1.lowercase{
+color: yellowgreen;
+}
+span{color:hotpink;}
+i{color:darkblue;}
