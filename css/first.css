@@ -1,4 +1,9 @@
+body{
+    background-color: aqua;
+}
 h1{
+    height: 45px;
+    background-color: blue;
 font-size: 30px;
 color: rgb(180, 0, 0);
 }h2{
